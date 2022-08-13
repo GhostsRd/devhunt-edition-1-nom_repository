@@ -1,7 +1,7 @@
 # DEV-hunt
 DEV hunt
-you just need to make my site web online
-make de img dans un dossier "images"
-install bootstrap 4 5 required
-aos jquery
-javascript
+# mettez tous les fichier dans un dossier images apart le "page.html"   et "jquery.js"
+# make de img dans un dossier "images"
+# install bootstrap 4 5 required
+# aos jquery
+# javascript
